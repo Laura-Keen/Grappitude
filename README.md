@@ -45,21 +45,32 @@ We met 3 times a day throughout the task, to check-in, plan/re-plan the works, a
   
 ### Summary
 <details>
-  <summary>What went well?</summary>
-  <br>
+<summary>What went well?</summary>
+<br>
+ 
+**Approach**
 We took a learning-focused approach, to allow the entire team to develop their understanding of React Native and the associated technologies.
 
+**Agile Workflow**
 The team communicated effectively with the use of 3 meetings a day.  This allowed us to continually re-shape the MVP (minimum viable product), and build the project incrementally.
 
-We had an open and honest approach, and reached out to Makers coaches and other students when we hit obstacles in the work.
-  </details>
-  <details>
-    <summary>Room for Improvement</summary>
-    <br>
+**Asking For Help**
+We had an open and honest approach, and reached out to Makers coaches and other students when we hit obstacles in the work.</details>
+ 
+<details>
+<summary>Room for Improvement</summary>
+<br>
+   
+**Testing**
 Testing was generally an afterthought in this project, as the team wanted to mainly learn the ins and outs of the technologies.  Now that we have this knowledge, going forward we would bring testing to the fore-front of the works.
 
+**Tickets**
 As the project progressed, the original tickets were put aside, and the team made daily plans depending on what was next to complete.  This could be improved by re-writing tickets should the scope of the project change, as it did throughout the 2 weeks.
 
+**Font**
+When loading the app, there is often an error stating that the font doesn't work because it is not a system font. We spent a lot of time researching this error and trying to fix it but unfortunately ran out of time.
+   
+**Git Workflow**
 Finally, we were still in the mindset of wanting to merge branches as an entire team, as opposed to conducting thorough code reviews of our peers' work and merging if acceptable.
   </details>
   
