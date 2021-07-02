@@ -12,7 +12,7 @@ The app was developed by a team of 6 students at [Makers Academy](https://www.ma
 [Planning](#planning) | [Technologies](#technologies) | [Approach](#approach) | [Summary](#summary) | [Demo of app](#demo-of-app)
 
 <details>
-<summary>### Planning</summary>
+<summary>Planning</summary>
 <br>
 We spent the first day of the project working as an entire team to decide on what to create.  Several ideas were suggested, each one having the potential to draw upon the skills we have learnt in our time with Makers.
 
@@ -22,7 +22,7 @@ This was overcome by taking 3 ideas forward to a technical planning stage, and t
 </details>
 
 <details>
-<summary>### Technologies</summary
+<summary>Technologies</summary
  <br>
 As a team, we unanimously agreed that Grapptiude made the most sense to be a mobile application, and therefore the technology used needed to suit this.
 
@@ -34,7 +34,7 @@ Finally, Jest was included as a test framework for the project.
  </details>
   
 <details>
-  <summary>### Approach</summary>
+  <summary>Approach</summary>
 <br>
 After deciding on the project, the first sprint was spent on self-directed learning to allow us to gain an understanding of the technologies we had chosen.
 
@@ -47,7 +47,7 @@ We met 3 times a day throughout the task, to check-in, plan/re-plan the works, a
   
 ### Summary
 <details>
-  <summary>#### What went well?</summary>
+  <summary>What went well?</summary>
   <br>
 We took a learning-focused approach, to allow the entire team to develop their understanding of React Native and the associated technologies.
 
@@ -56,7 +56,7 @@ The team communicated effectively with the use of 3 meetings a day.  This allowe
 We had an open and honest approach, and reached out to Makers coaches and other students when we hit obstacles in the work.
   </details>
   <details>
-    <summary>#### Room for Improvement</summary>
+    <summary>Room for Improvement</summary>
     <br>
 Testing was generally an afterthought in this project, as the team wanted to mainly learn the ins and outs of the technologies.  Now that we have this knowledge, going forward we would bring testing to the fore-front of the works.
 
