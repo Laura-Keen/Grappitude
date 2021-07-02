@@ -11,15 +11,19 @@ The app was developed by a team of 6 students at [Makers Academy](https://www.ma
 ### Contents
 [Planning](#planning) | [Technologies](#technologies) | [Approach](#approach) | [Summary](#summary) | [Demo of app](#demo-of-app)
 
-### Planning
-
+<details>
+<summary>### Planning</summary>
+<br>
 We spent the first day of the project working as an entire team to decide on what to create.  Several ideas were suggested, each one having the potential to draw upon the skills we have learnt in our time with Makers.
 
 An early challenge faced by the team was balancing the individual interests of the team against the practicalities of actually building the project.
 
 This was overcome by taking 3 ideas forward to a technical planning stage, and then choosing the idea that allowed for maximum learning, an interesting scope, along with having a technically stimulating feature - in this case a progress-bar.
+</details>
 
-### Technologies
+<details>
+<summary>### Technologies</summary
+ <br>
 As a team, we unanimously agreed that Grapptiude made the most sense to be a mobile application, and therefore the technology used needed to suit this.
 
 As we had spent time on the course learning JavaScript, we decided that React Native would be most suitable.  It is a notable mobile app framework, and we had not used it before.
@@ -27,9 +31,11 @@ As we had spent time on the course learning JavaScript, we decided that React Na
 MongoDB was chosen as the database for the project in which the user's posts would be stored.  This allowed team members with an interest in back-end development the opportunity to work with a cloud-based database.
 
 Finally, Jest was included as a test framework for the project.
-
-### Approach
-
+ </details>
+  
+<details>
+  <summary>### Approach</summary>
+<br>
 After deciding on the project, the first sprint was spent on self-directed learning to allow us to gain an understanding of the technologies we had chosen.
 
 The team then came together to create sequence diagrams and user stories for the app.  This resulted in tickets being produced and the programming work commenced.
@@ -37,23 +43,28 @@ The team then came together to create sequence diagrams and user stories for the
 The general approach was to split the team in to front-end and back-end groups.
 
 We met 3 times a day throughout the task, to check-in, plan/re-plan the works, and merge branches as a team.
-
+  </details>
+  
 ### Summary
-
-#### What went well?
+<details>
+  <summary>#### What went well?</summary>
+  <br>
 We took a learning-focused approach, to allow the entire team to develop their understanding of React Native and the associated technologies.
 
 The team communicated effectively with the use of 3 meetings a day.  This allowed us to continually re-shape the MVP (minimum viable product), and build the project incrementally.
 
 We had an open and honest approach, and reached out to Makers coaches and other students when we hit obstacles in the work.
-
-#### Room for Improvement
+  </details>
+  <details>
+    <summary>#### Room for Improvement</summary>
+    <br>
 Testing was generally an afterthought in this project, as the team wanted to mainly learn the ins and outs of the technologies.  Now that we have this knowledge, going forward we would bring testing to the fore-front of the works.
 
 As the project progressed, the original tickets were put aside, and the team made daily plans depending on what was next to complete.  This could be improved by re-writing tickets should the scope of the project change, as it did throughout the 2 weeks.
 
 Finally, we were still in the mindset of wanting to merge branches as an entire team, as opposed to conducting thorough code reviews of our peers' work and merging if acceptable.
-
+  </details>
+  
 ### Demo of app
 
 #### User can submit a thought, and see the progress-bar and Gratitude Level increase
